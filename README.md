@@ -20,7 +20,13 @@ I want to be able to see a list of my bookmarks
 So that I can view my current bookmarks
 ```
 
+```
+As a user
 
+I want to be able to add bookmarks
+
+So that I can increase my list of bookmarks
+```
 
 
 ---
