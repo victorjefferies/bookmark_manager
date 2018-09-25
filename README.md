@@ -28,5 +28,44 @@ I want to be able to add bookmarks
 So that I can increase my list of bookmarks
 ```
 
+```
+As a user
+
+I want to be able to remove bookmarks
+
+From my list of bookmarks
+```
+
+```
+As a user
+
+I want to be able to comment on my bookmarks
+
+So that I can leave useful notes
+```
+
+```
+As a user
+
+I want to be able to tag categories on my bookmarks
+
+So that I can arrange my list of bookmarks
+```
+
+```
+As a user
+
+I want to be able to filter bookmarks
+
+So that I can sort them by tag
+```
+
+<!-- ```
+As a user
+
+I want to be able to manage my bookmarks
+
+So that I can arrange, 
+``` -->
 
 ---
